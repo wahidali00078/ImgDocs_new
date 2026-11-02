@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="60" y="60" width="1080" height="510" rx="24" fill="#1e293b" stroke="#334155" stroke-width="4"/>
+  <circle cx="200" cy="315" r="90" fill="#ef4444"/>
+  <path d="M160 255h40l32 32v60c0 6-5 11-11 11h-61c-6 0-11-5-11-11v-81c0-6 5-11 11-11z" fill="#ffffff"/>
+  <text x="340" y="280" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="64" fill="#ffffff">ImgDocs</text>
+  <text x="340" y="340" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="28" fill="#f87171">Secure Client-Side PDF Tools &amp; Free Converter</text>
+  <text x="340" y="390" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="22" fill="#94a3b8">100% Local Processing • No File Uploads • Enterprise Grade Privacy</text>
+</svg>

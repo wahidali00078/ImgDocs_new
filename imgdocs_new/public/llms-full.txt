@@ -1,0 +1,39 @@
+# ImgDocs Comprehensive AI Specifications & Tool Documentation
+
+## Executive Overview
+ImgDocs is a WebAssembly and client-side JavaScript powered document processing suite designed for high privacy, instant document conversions, image compression, and AI document intelligence.
+
+### Security Architecture
+- Client-Side Sandbox: Files loaded into ImgDocs tools (e.g. PDF compression, JPG to PDF, OCR) are processed entirely inside the client browser's local RAM.
+- No Server Retention: Original documents, images, and converted outputs are never transmitted to or saved on remote servers.
+- GDPR & HIPAA Friendly: Ideal for medical, legal, and financial records requiring zero cloud retention.
+
+## Full Tool Catalog & Technical Operations
+
+### PDF Manipulation Suite
+1. **Merge PDF** (`/merge-pdf`): Drag and drop multiple PDF files, reorder pages, and compile them into a single PDF document locally.
+2. **Split PDF** (`/split-pdf`): Divide multi-page PDF documents into individual page files or extract custom page ranges (e.g., pages 1-5, 8, 12-15).
+3. **Compress PDF** (`/compress-pdf`): Reduce PDF file sizes by up to 80% using custom bitrate DPI optimization and vector stream compression without losing text sharpness.
+4. **Protect PDF** (`/protect-pdf`): Apply strong password protection and AES-256 encryption to prevent unauthorized printing, editing, or viewing.
+5. **Unlock PDF** (`/unlock-pdf`): Decrypt password-protected PDFs (when owner credentials are provided) to restore full viewing, copying, and printing permissions.
+6. **Rotate PDF** (`/rotate-pdf`): Rotate individual sideways or upside-down PDF pages clockwise or counter-clockwise by 90, 180, or 270 degrees.
+7. **Organize & Delete Pages** (`/organize-pdf`, `/delete-pages`): Visually reorder, shuffle, or delete unwanted pages from multi-page PDFs before exporting.
+8. **OCR Text Extractor** (`/ocr`): Run browser-native Tesseract Optical Character Recognition on scanned PDFs or image files (PNG, JPG, WEBP) to extract searchable text.
+
+### Image & Office Document Suite
+1. **JPG / Image to PDF** (`/jpg-to-pdf`, `/image-to-pdf`): Combine single or batch photos (JPG, PNG, WEBP, GIF, SVG) into clean, printable PDF documents.
+2. **PDF to JPG** (`/pdf-to-jpg`): Decompile PDF pages into high-resolution JPG or PNG images with customizable DPI settings.
+3. **Image Compressor & Cropper** (`/image-compressor`, `/crop-image`): Compress and crop JPG, PNG, WEBP, and GIF photos with interactive 1:1, 16:9, 4:3, 9:16 aspect ratio presets and real-time preview.
+4. **Image Converter** (`/image-converter`): Convert between image formats (PNG to JPG, WEBP to PNG, SVG to PNG, HEIC to JPG).
+5. **PDF to Word & Word to PDF** (`/pdf-to-word`, `/word-to-pdf`): Transform PDF documents to editable Microsoft Word (.docx) files and convert Word files to standardized PDF.
+
+## AI Assistant & Intelligence Capabilities
+- Multi-turn AI Document Chat powered by server-side Gemini API.
+- Instant summarization, key table extraction, translation, and contract clause analysis.
+- Optional Google Search Grounding for real-time web verification on legal and technical queries.
+
+## API Integration & Metadata
+- Base URL: https://imgdocs.com
+- OpenAPI Specification: /api/openapi.json
+- Site Map: /sitemap.xml
+- Robots Directive: /robots.txt

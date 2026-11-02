@@ -1,0 +1,35 @@
+{
+  "short_name": "ImgDocs",
+  "name": "ImgDocs - Secure Client-Side PDF Tools & Free Converter",
+  "description": "Optimize, compress, convert, merge, split, rotate, and eSign PDF files 100% locally in your browser memory.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#ef4444",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ImgDocs",
+  "description": "Premium All-in-One PDF & Image Tools Suite. Fast, secure, and browser-native PDF converter, compressor, merger, splitter, and editor with 18+ tools, fully GDPR & AdSense compliant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

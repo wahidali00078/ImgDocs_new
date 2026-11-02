@@ -1,0 +1,43 @@
+# ImgDocs - Secure Browser-Native PDF & Image Tools
+
+> ImgDocs is a high-speed, 100% private client-side document processing engine and web application. All PDF conversions, compression, OCR, and editing run directly in browser memory via WebAssembly and JavaScript without uploading files to external servers.
+
+## Key System Capabilities
+- 100% Private Client-Side Processing (Files never leave the user's browser)
+- Zero Cloud Uploads for core tools (GDPR & HIPAA compliant workflow)
+- Ultra-fast conversion, compression, and text extraction
+- Built-in Gemini AI Assistant for document intelligence, summarization, and translation
+
+## Primary Available Tools
+- Merge PDF: https://imgdocs.com/merge-pdf
+- Split PDF: https://imgdocs.com/split-pdf
+- Compress PDF: https://imgdocs.com/compress-pdf
+- Protect PDF: https://imgdocs.com/protect-pdf
+- Unlock PDF: https://imgdocs.com/unlock-pdf
+- Rotate PDF: https://imgdocs.com/rotate-pdf
+- Organize PDF: https://imgdocs.com/organize-pdf
+- Delete Pages: https://imgdocs.com/delete-pages
+- Extract Pages: https://imgdocs.com/extract-pages
+- PDF to Word: https://imgdocs.com/pdf-to-word
+- Word to PDF: https://imgdocs.com/word-to-pdf
+- PDF to JPG: https://imgdocs.com/pdf-to-jpg
+- JPG to PDF: https://imgdocs.com/jpg-to-pdf
+- Image to PDF: https://imgdocs.com/image-to-pdf
+- Image Compressor: https://imgdocs.com/image-compressor
+- Image Converter: https://imgdocs.com/image-converter
+- OCR PDF / Image Text Extractor: https://imgdocs.com/ocr
+- eSign PDF: https://www.imgdocs.me/esign-pdf
+- Add Watermark: https://www.imgdocs.me/add-watermark
+- Crop Image: https://www.imgdocs.me/crop-image
+- HTML to PDF: https://www.imgdocs.me/html-to-pdf
+- Excel to PDF: https://imgdocs.com/excel-to-pdf
+- PowerPoint to PDF: https://imgdocs.com/powerpoint-to-pdf
+
+## Documentation & Legal Pages
+- About Us: https://imgdocs.com/about
+- Contact Support: https://imgdocs.com/contact
+- Pricing Plans: https://imgdocs.com/pricing
+- Blog & Guides: https://imgdocs.com/blog
+- Privacy Policy: https://imgdocs.com/privacy-policy
+- Terms of Service: https://imgdocs.com/terms
+- Refund Policy: https://imgdocs.com/refund-policy
